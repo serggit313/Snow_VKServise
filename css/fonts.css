@@ -1,0 +1,54 @@
+/* font-family: "RalewayRegular"; */
+@font-face {
+	font-family: "RalewayRegular";
+	src: url("../fonts/RalewayRegular/Raleway-Regular.eot");
+	src: url("../fonts/RalewayRegular/Raleway-Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewayRegular/Raleway-Regular.woff") format("woff"),
+	url("../fonts/RalewayRegular/Raleway-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "RalewayBold"; */
+@font-face {
+	font-family: "RalewayBold";
+	src: url("../fonts/RalewayBold/Raleway-Bold.eot");
+	src: url("../fonts/RalewayBold/Raleway-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewayBold/Raleway-Bold.woff") format("woff"),
+	url("../fonts/RalewayBold/Raleway-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "RalewayExtraBold"; */
+@font-face {
+	font-family: "RalewayExtraBold";
+	src: url("../fonts/RalewayExtraBold/Raleway-ExtraBold.eot");
+	src: url("../fonts/RalewayExtraBold/Raleway-ExtraBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewayExtraBold/Raleway-ExtraBold.woff") format("woff"),
+	url("../fonts/RalewayExtraBold/Raleway-ExtraBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "RalewaySemiBold"; */
+@font-face {
+	font-family: "RalewaySemiBold";
+	src: url("../fonts/RalewaySemiBold/Raleway-SemiBold.eot");
+	src: url("../fonts/RalewaySemiBold/Raleway-SemiBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewaySemiBold/Raleway-SemiBold.woff") format("woff"),
+	url("../fonts/RalewaySemiBold/Raleway-SemiBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "RalewayLight"; */
+@font-face {
+	font-family: "RalewayLight";
+	src: url("../fonts/RalewayLight/Raleway-Light.eot");
+	src: url("../fonts/RalewayLight/Raleway-Light.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewayLight/Raleway-Light.woff") format("woff"),
+	url("../fonts/RalewayLight/Raleway-Light.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
